@@ -1,8 +1,11 @@
 package com.tigerxiao.beautyhunter;
 
+import com.tigerxiao.extern.util.L;
+
 import android.support.v7.app.ActionBarActivity;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -15,7 +18,7 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.container, new PlaceholderFragment())
@@ -23,6 +26,9 @@ public class MainActivity extends ActionBarActivity {
         }
     }
 
+    
+    
+    
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
