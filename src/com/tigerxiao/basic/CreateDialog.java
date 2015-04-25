@@ -152,7 +152,4 @@ public class CreateDialog extends Activity {
 	} 
 	
 	
-	
-	
-	
 }
