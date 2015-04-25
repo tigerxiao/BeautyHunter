@@ -1,0 +1,31 @@
+项目计划：
+
+1. /src/com/tigerxiao/basic
+
+存放Android开发需要的基础知识，包括但不限于：
+a. Activity Service Intent Broadcast 的基本用法;
+b. UI 四种常用的布局方式、常见控件(按钮、文本、Image)的使用方法;
+c. SqlLite PreferenceManage ProviderManager等数据持久化的用法;
+d. Phonebook SD Camera Location Wifi 等系统设备的使用方法;
+e. Network Bluetooth 等数据传输方法;
+
+这些基础知识，预计耗时两个月，完成时间20150701。
+
+2. /src/com/tigerxiao/tools/
+
+存放广为使用的，能提高coding效率的class.
+
+一旦发现，随时添加。
+
+3. 真正项目开发预计耗时三个月，完成时间20151001.
+
+
+
+
+
+
+
+
+
+
+
