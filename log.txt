@@ -1,0 +1,84 @@
+commit 154941d975ce347855b978cf2ae20106a6e455d6
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Sat Apr 25 21:26:35 2015 +0800
+
+    如何使用fragement，及fragment之间传递数据的方法
+
+commit 11c5c28be729b72db55dd20a47b3941e8a0fb216
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Sat Apr 25 17:26:17 2015 +0800
+
+    如何使用Intent启动应用程序、传输数据
+
+commit 99069ff007f374e5a466b683dfef2f3a7b12912e
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Sat Apr 25 16:58:00 2015 +0800
+
+    添加项目计划及简单目录说明
+
+commit 4db4b2875e9b4afbe06c7c4636502033447dc9f8
+Author: tigerxiao <xiaowh001@126.com>
+Date:   Sat Apr 25 00:09:41 2015 +0800
+
+    加深对创建Dialog,按键消息映射,字符串常量、变量的应用的理解。
+
+commit d57cb9ccdcdad5856c3017198c2786e81090b547
+Author: tigerxiao <xiaowh001@126.com>
+Date:   Fri Apr 24 21:39:16 2015 +0800
+
+    理解Activity的生命周期
+
+commit 36f7da4f747636e852043ef32f37417c5414cb5a
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Fri Apr 24 18:57:18 2015 +0800
+
+    go home , continue to work .
+
+commit 937381fbb44187db345d40fba7eb435a72a4947f
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Fri Apr 24 18:43:15 2015 +0800
+
+    add some util class
+
+commit 2b765e01e9127ffa0f1cb5de05094d953caed7c3
+Merge: 4b20f18 34be59c
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Fri Apr 24 15:46:27 2015 +0800
+
+    Merge https://github.com/tigerxiao/BeautyHunter
+
+commit 4b20f18352d14e5bd75f7c23c76008dc7677291a
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Fri Apr 24 15:40:57 2015 +0800
+
+    create project
+
+commit 34be59c06512b522b0f11362b7508ac7da0ab952
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Fri Apr 24 15:29:08 2015 +0800
+
+    roll to first
+
+commit 1da50ac74d5f70c0ef9e40bcebd0c5861a5c1147
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Fri Apr 24 15:22:35 2015 +0800
+
+    thrid commit
+
+commit b28978071743662b8eac6c93cdc818be22ceca79
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Fri Apr 24 15:06:25 2015 +0800
+
+    second commit
+
+commit 66bdc821c4cb325eee1137caee919b37decda6e8
+Author: TigerXiao1122 <xiaowh001@126.com>
+Date:   Fri Apr 24 13:54:30 2015 +0800
+
+    add comments
+
+commit cb5604311d473d3a834cb2ec1acaa364a982579b
+Author: tigerxiao <tiger.xiaowh001@gmail.com>
+Date:   Fri Apr 24 13:44:05 2015 +0800
+
+    Initial commit

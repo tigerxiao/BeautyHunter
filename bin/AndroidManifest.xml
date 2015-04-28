@@ -14,12 +14,58 @@
         android:label="@string/app_name"
         android:theme="@android:style/Theme.Light" >
         <activity
-            android:name="com.tigerxiao.basic.fragments.TestFragmentActivity"
-            android:label="@string/app_name" >
+            android:name="com.tigerxiao.basic.viewgroup.TestScrollview"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tigerxiao.basic.viewgroup.TestFramelayout"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.TestFramelayout" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tigerxiao.basic.viewgroup.TestRelativelayout"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.TestRelativelayout" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tigerxiao.basic.viewgroup.TestTablelayout"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.TestTablelayout" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tigerxiao.basic.viewgroup.TestLinearlayoutActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.TestLinearlayoutActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tigerxiao.basic.fragments.TestFragmentActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.TestFragmentActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <activity
