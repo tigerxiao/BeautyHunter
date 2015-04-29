@@ -13,12 +13,21 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:name="com.tigerxiao.basic.viewgroup.TestActionbarActivity"
+            android:name="com.tigerxiao.basic.viewgroup.TestCodeUIActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>        
+        <activity
+            android:name="com.tigerxiao.basic.viewgroup.TestActionbarActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.TestActionbarActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <activity
