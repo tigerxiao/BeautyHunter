@@ -1085,7 +1085,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f05001a;
         public static final int action_menu_presenter=0x7f05001b;
         public static final int action_mode_close_button=0x7f050028;
-        public static final int action_settings=0x7f05004f;
+        public static final int action_settings=0x7f050050;
         public static final int activity_chooser_view_content=0x7f050029;
         public static final int always=0x7f05000f;
         public static final int anchored=0x7f050002;
@@ -1106,6 +1106,7 @@ containing a value of this type.
         public static final int dropdown=0x7f050013;
         public static final int edit_1=0x7f05004a;
         public static final int edit_2=0x7f05004b;
+        public static final int edit_orientation_1=0x7f05004c;
         public static final int edit_query=0x7f050034;
         public static final int end=0x7f050017;
         public static final int expand_activities_button=0x7f05002a;
@@ -1128,9 +1129,9 @@ containing a value of this type.
         public static final int progress_circular=0x7f05001c;
         public static final int progress_horizontal=0x7f05001d;
         public static final int radio=0x7f050033;
-        public static final int relative_edit=0x7f05004c;
-        public static final int relative_edit_2=0x7f05004e;
-        public static final int relative_edit_3=0x7f05004d;
+        public static final int relative_edit=0x7f05004d;
+        public static final int relative_edit_2=0x7f05004f;
+        public static final int relative_edit_3=0x7f05004e;
         public static final int relative_edit_4=0x7f050049;
         public static final int search_badge=0x7f050036;
         public static final int search_bar=0x7f050035;
@@ -1213,10 +1214,11 @@ containing a value of this type.
         public static final int intent_main_1=0x7f03001d;
         public static final int intent_main_2=0x7f03001e;
         public static final int linear_layout=0x7f03001f;
-        public static final int relative_layout=0x7f030020;
-        public static final int scrollview_layout=0x7f030021;
-        public static final int support_simple_spinner_dropdown_item=0x7f030022;
-        public static final int table_layout=0x7f030023;
+        public static final int orientation=0x7f030020;
+        public static final int relative_layout=0x7f030021;
+        public static final int scrollview_layout=0x7f030022;
+        public static final int support_simple_spinner_dropdown_item=0x7f030023;
+        public static final int table_layout=0x7f030024;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;

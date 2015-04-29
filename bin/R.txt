@@ -250,7 +250,7 @@ int id action_context_bar 0x7f050021
 int id action_menu_divider 0x7f05001a
 int id action_menu_presenter 0x7f05001b
 int id action_mode_close_button 0x7f050028
-int id action_settings 0x7f05004f
+int id action_settings 0x7f050050
 int id activity_chooser_view_content 0x7f050029
 int id always 0x7f05000f
 int id anchored 0x7f050002
@@ -271,6 +271,7 @@ int id disableHome 0x7f05000c
 int id dropdown 0x7f050013
 int id edit_1 0x7f05004a
 int id edit_2 0x7f05004b
+int id edit_orientation_1 0x7f05004c
 int id edit_query 0x7f050034
 int id end 0x7f050017
 int id expand_activities_button 0x7f05002a
@@ -293,9 +294,9 @@ int id normal 0x7f050004
 int id progress_circular 0x7f05001c
 int id progress_horizontal 0x7f05001d
 int id radio 0x7f050033
-int id relative_edit 0x7f05004c
-int id relative_edit_2 0x7f05004e
-int id relative_edit_3 0x7f05004d
+int id relative_edit 0x7f05004d
+int id relative_edit_2 0x7f05004f
+int id relative_edit_3 0x7f05004e
 int id relative_edit_4 0x7f050049
 int id search_badge 0x7f050036
 int id search_bar 0x7f050035
@@ -352,10 +353,11 @@ int layout frame_layout 0x7f03001c
 int layout intent_main_1 0x7f03001d
 int layout intent_main_2 0x7f03001e
 int layout linear_layout 0x7f03001f
-int layout relative_layout 0x7f030020
-int layout scrollview_layout 0x7f030021
-int layout support_simple_spinner_dropdown_item 0x7f030022
-int layout table_layout 0x7f030023
+int layout orientation 0x7f030020
+int layout relative_layout 0x7f030021
+int layout scrollview_layout 0x7f030022
+int layout support_simple_spinner_dropdown_item 0x7f030023
+int layout table_layout 0x7f030024
 int menu main 0x7f0c0000
 int string abc_action_bar_home_description 0x7f0a0001
 int string abc_action_bar_up_description 0x7f0a0002
