@@ -1,7 +1,10 @@
 package com.tigerxiao.basic.viewgroup;
 
+import com.tigerxiao.extern.util.T;
+
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.KeyEvent;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.Button;
 import android.widget.EditText;
@@ -36,4 +39,32 @@ public class TestCodeUIActivity extends Activity {
 	this.addContentView(layout, layoutParams);
 	}
 
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		// TODO Auto-generated method stub
+		
+		T.showShort(this, "keyCode  "+keyCode+"  event"+event.toString());
+		
+		return super.onKeyDown(keyCode, event);
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
